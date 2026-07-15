@@ -1,0 +1,4 @@
+route_planner
+route_planner.exe
+*.o
+.vscode/
